@@ -15,7 +15,7 @@ Technologies Used
 - JavaScript
 - Git
 - GitHub
-
+  
 Features
 
 - Home page
